@@ -19,3 +19,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+### Licencias de Modelos Incluidos
+
+1. **PlanTL-GOB-ES/roberta-base-bne**:
+Este modelo está licenciado bajo la Apache License, Version 2.0. Puede encontrar una copia de esta licencia en http://www.apache.org/licenses/LICENSE-2.0.
+
+2. **dccuchile/bert-base-spanish-wwm-uncased**:
+Este modelo está licenciado bajo la licencia Creative Commons Attribution 4.0 International. Puede encontrar una copia de esta licencia en https://creativecommons.org/licenses/by/4.0/.
